@@ -1,0 +1,26 @@
+{
+    "name": "jquery-daydropdown",
+    "version": "v0.5.0",
+    "main": "jquery.daydropdown.js",
+    "homepage": "https://github.com/gainupside/jquery-daydropdown/",
+    "authors": [
+        "Brad Urani <bradurani@gmail.com>"
+    ],
+    "description": "A jQuery plugin that sets the number of days in a days select to match the number of days in the month of a month select",
+    "keywords": [
+        "day",
+        "month",
+        "jquery",
+        "urani"
+    ],
+    "license": "none",
+    "ignore": [
+
+    ],
+    "dependencies": {
+        "jquery": ">=1.11"
+    },
+    "devDependencies": {
+      
+    }
+}
